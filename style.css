@@ -66,5 +66,6 @@ main {
         background: url('back.jpg') no-repeat;
         background-size: cover;
         overflow-y: hidden;
+        overflow-x: hidden;
     }
 }
